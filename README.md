@@ -1,2 +1,2 @@
 # latex-notes-if
-  Molde inicial de como quero meu material em latex ~ Instituto de Física-UFRJ
+  Sou um futuro aluno de Física e este é o molde(inicial - 05/03/22) de como quero meu material em latex ~ Instituto de Física-UFRJ
